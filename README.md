@@ -1,5 +1,5 @@
 [doc](https://typst.app/docs/tutorial/)
-[typst-docs](doc/typst-docs.md)
+[typst-docs-for-cursor](doc/typst-docs.md)
 
 
 
