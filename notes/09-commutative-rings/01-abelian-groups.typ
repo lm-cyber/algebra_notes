@@ -3,7 +3,6 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-= Глава 9. Коммутативные кольца
+= Глава 9. Коммутативные кольца / Chapter 9. Commutative Rings
 
-== § 1. Абелевы группы
-
+== § 1. Абелевы группы / Abelian Groups

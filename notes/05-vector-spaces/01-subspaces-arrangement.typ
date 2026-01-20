@@ -3,7 +3,6 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-= Глава 5. Векторные пространства
+= Глава 5. Векторные пространства / Chapter 5. Vector Spaces
 
-== § 1. Взаимное расположение подпространств
-
+== § 1. Взаимное расположение подпространств / Relative Position of Subspaces

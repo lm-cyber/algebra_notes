@@ -3,7 +3,7 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 5. Поле комплексных чисел
+== § 5. Поле комплексных чисел / The Field of Complex Numbers
 
 *DEF 1* Definition 1. The field of complex numbers is any field $CC$ such that:
 1) $RR subset.eq CC$ as a subfield;

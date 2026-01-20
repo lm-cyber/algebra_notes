@@ -3,7 +3,6 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-= Глава 8. Тензорная алгебра
+= Глава 8. Тензорная алгебра / Chapter 8. Tensor Algebra
 
-== § 1. Тензорное произведение векторных пространств
-
+== § 1. Тензорное произведение векторных пространств / Tensor Product of Vector Spaces

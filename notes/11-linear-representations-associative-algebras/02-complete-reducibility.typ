@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 2. Полная приводимость линейных представлений
-
+== § 2. Полная приводимость линейных представлений / Complete Reducibility of Linear Representations

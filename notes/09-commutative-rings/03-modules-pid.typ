@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 3. Модули над кольцами главных идеалов
-
+== § 3. Модули над кольцами главных идеалов / Modules over Principal Ideal Domains

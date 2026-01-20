@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 2. Тензорная алгебра векторного пространства
-
+== § 2. Тензорная алгебра векторного пространства / Tensor Algebra of a Vector Space

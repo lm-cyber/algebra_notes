@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 3. Конечномерные ассоциативные алгебры
-
+== § 3. Конечномерные ассоциативные алгебры / Finite-Dimensional Associative Algebras

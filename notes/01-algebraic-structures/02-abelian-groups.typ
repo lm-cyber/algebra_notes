@@ -3,7 +3,7 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 2. Абелевы группы
+== § 2. Абелевы группы / Abelian Groups
 
 
 
@@ -25,5 +25,3 @@ properties: S1 - S4 $quad forall ,a,b,c in A$
 *DEF 1'* A (multiplicative) Abelian group
 is a set A with a multiplication operation having
 the following properties: M1 - M4 $quad forall ,a,b,c in A$
-
-

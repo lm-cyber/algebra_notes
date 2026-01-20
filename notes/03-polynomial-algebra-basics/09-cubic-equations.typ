@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 9. Кубические уравнения
-
+== § 9. Кубические уравнения / Cubic Equations

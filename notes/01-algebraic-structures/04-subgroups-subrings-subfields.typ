@@ -3,7 +3,7 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 4. Подгруппы, подкольца и подполя
+== § 4. Подгруппы, подкольца и подполя / Subgroups, Subrings, and Subfields
 
 *DEF 1* Definition 1. A subset $B$ of an additive abelian group $A$ is called a subgroup, if:
 1) $B$ is closed under addition;

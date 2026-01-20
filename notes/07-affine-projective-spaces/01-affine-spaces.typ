@@ -3,7 +3,6 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-= Глава 7. Аффинные и проективные пространства
+= Глава 7. Аффинные и проективные пространства / Chapter 7. Affine and Projective Spaces
 
-== § 1. Аффинные пространства
-
+== § 1. Аффинные пространства / Affine Spaces

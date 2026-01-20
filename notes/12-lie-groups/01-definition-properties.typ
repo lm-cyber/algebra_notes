@@ -3,7 +3,6 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-= Глава 12. Группы Ли
+= Глава 12. Группы Ли / Chapter 12. Lie Groups
 
-== § 1. Определение и простейшие свойства групп Ли
-
+== § 1. Определение и простейшие свойства групп Ли / Definition and Basic Properties of Lie Groups

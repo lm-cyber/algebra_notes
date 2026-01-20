@@ -3,10 +3,10 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-= Глава 1. Алгебраические структуры
+= Глава 1. Алгебраические структуры / Chapter 1. Algebraic Structures
 
 
-== § 1. Введение
+== § 1. Введение / Introduction
 
 
 $ M times M -> M $

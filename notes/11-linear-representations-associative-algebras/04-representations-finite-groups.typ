@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 4. Линейные представления конечных групп
-
+== § 4. Линейные представления конечных групп / Linear Representations of Finite Groups

@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 2. Идеалы и факторкольца
-
+== § 2. Идеалы и факторкольца / Ideals and Quotient Rings

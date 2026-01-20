@@ -3,7 +3,6 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-= Глава 6. Линейные операторы
+= Глава 6. Линейные операторы / Chapter 6. Linear Operators
 
-== § 1. Матрица линейного оператора
-
+== § 1. Матрица линейного оператора / Matrix of a Linear Operator

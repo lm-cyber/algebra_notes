@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 5. Разложение на простые множители
-
+== § 7. Разложение на простые множители / Prime Factorization

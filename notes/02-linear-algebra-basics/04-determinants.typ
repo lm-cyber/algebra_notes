@@ -3,7 +3,7 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 4. Определители
+== § 4. Определители / Determinants
 
 *DEF 1* Definition 1. A function $f(a_1, ..., a_m)$ is called multilinear (or $m$-linear) if it is linear with respect to each argument, i.e., $forall i in {1, ..., m}, forall a_1, ..., a_m, a'_i in V,
  forall lambda in K: f(a_1, ..., a_i + a'_i, ..., a_m) = f(a_1, ..., a_i, ..., a_m) + f(a_1, ..., a'_i, ..., a_m)$ and $f(a_1, ..., lambda a_i, ..., a_m) = lambda f(a_1, ..., a_i, ..., a_m)$.

@@ -3,7 +3,7 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 8. Алгебры
+== § 8. Алгебры / Algebras
 
 *DEF 1* Definition 1. An algebra over a field $K$ is a set $A$ with addition $+: A times A -> A$, multiplication $*: A times A -> A$, and scalar multiplication $*: K times A -> A$ such that:\
 1) $(A, +, *)$ is a vector space over $K$;\

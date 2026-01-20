@@ -3,7 +3,7 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 7. Векторные пространства
+== § 7. Векторные пространства / Vector Spaces
 
 *DEF 1* Definition 1. A vector space over a field $K$ is a set $V$ with addition $+: V times V -> V$ and scalar multiplication $*: K times V -> V$ such that:\
 1) $(V, +)$ is an abelian group;\

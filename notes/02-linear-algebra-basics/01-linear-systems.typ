@@ -3,9 +3,9 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-= Глава 2. Начала линейной алгебры
+= Глава 2. Начала линейной алгебры / Chapter 2. Introduction to Linear Algebra
 
-== § 1. Системы линейных уравнений
+== § 1. Системы линейных уравнений / Systems of Linear Equations
 
 *DEF 1* Definition 1. Elementary transformations of a system of linear equations are transformations of the following three types:
 1) $exists i, j in {1, ..., m}, exists lambda in K: E_i -> E_i + lambda E_j$;

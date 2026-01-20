@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 3. Аффинные преобразования и движения
-
+== § 3. Аффинные преобразования и движения / Affine Transformations and Motions

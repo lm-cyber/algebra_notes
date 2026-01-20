@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 5. Функции от линейного оператора
-
+== § 5. Функции от линейного оператора / Functions of a Linear Operator

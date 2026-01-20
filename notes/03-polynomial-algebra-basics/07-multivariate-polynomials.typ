@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 7. Многочлены от нескольких переменных
-
+== § 7. Многочлены от нескольких переменных / Multivariate Polynomials

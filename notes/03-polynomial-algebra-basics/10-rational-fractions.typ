@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 10. Поле рациональных дробей
-
+== § 10. Поле рациональных дробей / Field of Rational Fractions

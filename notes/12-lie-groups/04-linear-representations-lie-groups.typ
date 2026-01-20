@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 4. Линейные представления групп Ли
-
+== § 4. Линейные представления групп Ли / Linear Representations of Lie Groups

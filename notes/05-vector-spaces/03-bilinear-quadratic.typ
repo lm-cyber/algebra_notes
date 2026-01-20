@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 3. Билинейные и квадратичные функции
-
+== § 3. Билинейные и квадратичные функции / Bilinear and Quadratic Functions

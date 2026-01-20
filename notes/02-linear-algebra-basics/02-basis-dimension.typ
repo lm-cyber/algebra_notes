@@ -3,7 +3,7 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 2. Базис и размерность векторного пространства
+== § 2. Базис и размерность векторного пространства / Basis and Dimension of Vector Spaces
 
 *DEF 1* Definition 1. Vectors $a_1, ..., a_n in V$ are called linearly dependent if $exists (c_1, ..., c_n) in K^n \\ {0}: sum_(i=1)^n c_i a_i = 0$, and linearly independent otherwise, i.e., $sum_(i=1)^n c_i a_i = 0 => forall i in {1, ..., n}: c_i = 0$.
 

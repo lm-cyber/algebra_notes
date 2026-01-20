@@ -3,7 +3,6 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-= Глава 11. Линейные представления и ассоциативные алгебры
+= Глава 11. Линейные представления и ассоциативные алгебры / Chapter 11. Linear Representations and Associative Algebras
 
-== § 1. Инвариантные подпространства
-
+== § 1. Инвариантные подпространства / Invariant Subspaces

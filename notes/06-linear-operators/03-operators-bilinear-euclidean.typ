@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 3. Линейные операторы и билинейные функции в евклидовом пространстве
-
+== § 3. Линейные операторы и билинейные функции в евклидовом пространстве / Linear Operators and Bilinear Functions in Euclidean Space

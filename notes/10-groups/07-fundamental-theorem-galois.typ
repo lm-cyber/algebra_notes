@@ -3,5 +3,4 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 7. Основная теорема теории Галуа
-
+== § 7. Основная теорема теории Галуа / Fundamental Theorem of Galois Theory

@@ -3,7 +3,7 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 9. Алгебра матриц
+== § 9. Алгебра матриц / Matrix Algebra
 
 *DEF 1* Definition 1. For $m, n in NN_(>0)$ and a field $K$, a matrix of size $m times n$ over $K$ is a function $A: {1, ..., m} times {1, ..., n} -> K$. The set of all such matrices is denoted $M_(m times n)(K)$.
 

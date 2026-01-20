@@ -3,7 +3,6 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-= Глава 10. Группы
+= Глава 10. Группы / Chapter 10. Groups
 
-== § 1. Прямые и полупрямые произведения
-
+== § 1. Прямые и полупрямые произведения / Direct and Semidirect Products

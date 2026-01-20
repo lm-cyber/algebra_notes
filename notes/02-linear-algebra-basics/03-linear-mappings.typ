@@ -3,7 +3,7 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 3. Линейные отображения
+== § 3. Линейные отображения / Linear Mappings
 
 *DEF 1* Definition 1. For vector spaces $V$ and $U$ over a field $K$, a mapping $phi: V -> U$ is called linear if:
 1) $forall a, b in V: phi(a + b) = phi(a) + phi(b)$;

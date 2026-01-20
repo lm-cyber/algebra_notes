@@ -3,7 +3,7 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 6. Кольца вычетов
+== § 6. Кольца вычетов / Residue Rings
 
 *DEF 1* Definition 1. For a set $M$, any subset $R subset.eq M times M$ is called a relation on $M$. If $(a, b) in R$, we write $a R b$.
 

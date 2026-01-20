@@ -3,7 +3,7 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 5. Некоторые приложения определителей
+== § 5. Некоторые приложения определителей / Some Applications of Determinants
 
 *THM 1* Theorem 1 (Cramer's rule). If $det A != 0$ for a system of linear equations $A x = b$ with $A in M_(n times n)(K)$, then the system has a unique solution given by $forall i in {1, ..., n}: x_i = (det A_i) / (det A)$, where $A_i$ is the m Atrix obtained by replacing the $i$-th column of $A$ with $b$.
 

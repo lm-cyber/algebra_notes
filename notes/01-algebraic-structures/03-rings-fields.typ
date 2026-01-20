@@ -3,7 +3,7 @@
 #set par(justify: true, leading: 0.65em)
 #set heading(numbering: "1.")
 
-== § 3. Кольца и поля
+== § 3. Кольца и поля / Rings and Fields
 
 *DEF 1* Definition 1. A ring is a set K with
 addition and multiplication operations having the following properties:\
