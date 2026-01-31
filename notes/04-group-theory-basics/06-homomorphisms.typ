@@ -4,3 +4,6 @@
 #set heading(numbering: "1.")
 
 == § 6. Гомоморфизмы / Homomorphisms
+
+*DEF 1* Definition 1. A _homomorphism_ from a group $G$ to a group $H$ is a map $f: G -> H$ satisfying the condition
+$ f(a b) = f(a) f(b) quad forall a, b in G. $

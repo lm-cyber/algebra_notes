@@ -12,7 +12,6 @@ The smallest positive integer $m$ for which $g^m = e$ is called the order of ele
 *PROP 1* Proposition 1. If $"ord" g = n$, then:\
 1) $g^m = e <=> n | m$;\
 2) $g^k = g^l <=> k equiv l (mod n)$.\
-
 *Proof.* Divide $m$ by $n$ with remainder: $m = q n + r$, where $0 <= r < n$. Then by definition of order $g^n = e$, so $g^m = (g^n)^q * g^r = g^r$. Therefore $g^m = e <=> g^r = e <=> r = 0 <=> n | m$, which proves part 1).\
 
 For part 2), we have $g^k = g^l <=> g^(k-l) = e <=> n | (k-l) <=> k equiv l (mod n)$ by part 1). $square$\
